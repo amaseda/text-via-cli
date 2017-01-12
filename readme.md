@@ -51,7 +51,7 @@ module.exports = {
 }
 ```
 
-### Send a Text to a Favorite
+#### Send a Text to a Favorite
 
 Using the above example...
 
