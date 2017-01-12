@@ -1,0 +1,23 @@
+{
+  "name": "text-via-cli",
+  "version": "1.0.0",
+  "description": "A simple app that allows you to send a text message to a phone number via the command line. Created for `#100DaysOfCode` (Day 1).",
+  "main": "app.js",
+  "dependencies": {
+    "twilio": "^2.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amaseda/text-via-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amaseda/text-via-cli/issues"
+  },
+  "homepage": "https://github.com/amaseda/text-via-cli#readme"
+}
